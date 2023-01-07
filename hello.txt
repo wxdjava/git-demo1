@@ -6,4 +6,4 @@ hello wangxuedeng master test
 hello wangxuedeng hot-fix test
 hello wangxuedeng
 hello wangxuedeng
-
+synchronization
