@@ -2,7 +2,7 @@ hello wangxuedeng hello wangxuedeng
 hello wangxuedeng hello wangxuedeng 
 hello wangxuedeng hello wangxuedeng
 hello wangxuedeng hello wangxuedeng
-hello wangxuedeng
+hello wangxuedeng hot-fix test
 hello wangxuedeng
 hello wangxuedeng
 
